@@ -1,5 +1,5 @@
-- 👋 Hi, I’m James Parkes (@ParkesJ), Sr. PM at Microsoft!
-- 👀 I’m interested in Microsoft Teams and focus on our Call Quality Management portfolio
+- 👋 Hi, I’m James Parkes (@ParkesJ), Senior Product Manager at Microsoft!
+- 👀 I’m interested in Microsoft Teams and focus on our Call Quality Management tools portfolio
 - 🌱 I’m currently learning how to be the best PM I can.
 - 📫 How to reach me? Drop me a line on Twitter! I'm @JamesSaysEh
 
